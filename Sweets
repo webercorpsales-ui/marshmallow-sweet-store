@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Initial commit - Marshmallow Sweet Store website"
 git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/marshmallow-sweet-store.git
+git remote add origin https://github.com/webercorpsales-ui/marshmallow-sweet-store.git
 git push -u origin main
