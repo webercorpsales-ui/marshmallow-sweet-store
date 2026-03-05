@@ -5,6 +5,3 @@ marshmallow-sweet-store
 │
 ├── public
 │   └── marshmallows.jpg
-│
-├── package.json
-└── README.md
